@@ -208,6 +208,8 @@ Return rate maintained below **1%**, indicating strong product satisfaction.
 ## 📸 9. Dashboard Preview
 
 https://github.com/kaiffirox/Maven-Market-Power-BI-Analytics-Dashboard/blob/main/Meven%20Market%20Dashboard%20Screenshot.png
+<img width="698" height="394" alt="image" src="https://github.com/user-attachments/assets/e86f2690-47ba-4290-8e33-5f8b6e5758b2" />
+
 
 ---
 
